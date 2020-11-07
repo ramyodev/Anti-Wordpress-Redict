@@ -1,6 +1,6 @@
 # Anti Wordpress Redict
 
-Little script to save your index.php file from hacked WordPress redicts.
+Little script to save your index.php file from hacked WordPress redicts.<br>
 Compare your index.php with a clean version and clean it if it gets compromised.
 
 
